@@ -50,8 +50,8 @@
       "phone": "12345667",
       "skills": [
         {
-          "skillName": "Angular",
-          "experienceInYears": "2",
+          "skillName": "Angular 2",
+          "experienceInYears": "22",
           "proficiency": "intermediate"
         },
         {
